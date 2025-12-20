@@ -1,0 +1,6 @@
+export SUPABASE_URL="https://projectid.supabase.co"
+export SUPABASE_SERVICE_ROLE_KEY="PASSWORD"
+export SUPABASE_ANON_KEY="PASSWORD"
+export SUPABASE_DB_URL="postgres://postgres:PASSWORD@db.projectid.supabase.co:5432/postgres"
+
+
