@@ -254,7 +254,7 @@ The stack and design choices emphasize **clarity, reproducibility, and analytica
 
 ## Documentation Index
 
-Supporting documentation is available in `/docs`:
+The following supporting documentation will be available in `/docs` *in next updates* of this repository:
 
 * `architecture.md` — System architecture
 * `pipeline.md` — Pipeline execution flow
